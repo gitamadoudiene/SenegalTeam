@@ -20,7 +20,7 @@ export default function Navbar() {
         <div>
           {/* TODO : Remplacer par un vrai logo (rond, bordure dorée, taille fixe w-x h-x). */}
           <img
-            src="https://images.unsplash.com/photo-1706675780107-7c43cc487928?auto=format&fit=crop&w=100&q=80"
+            src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_F%C3%A9d%C3%A9ration_S%C3%A9n%C3%A9galaise_Football_2016.svg/1280px-Logo_F%C3%A9d%C3%A9ration_S%C3%A9n%C3%A9galaise_Football_2016.svg.png"
             alt="Logo Lions du Sénégal"
           />
           {/* TODO : Styliser ce titre : taille de police, graisse (font-bold), couleur, majuscules (uppercase), tracking. */}
