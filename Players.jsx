@@ -16,7 +16,7 @@ const joueurs = [
     club: "Al Nassr FC",
     numero: 10,
     photo:
-      "https://images.unsplash.com/photo-1748112446071-603973efd3f9?auto=format&fit=crop&w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPstINV3o5mljjuLGvXKUkXIOYM3pczkEGOgbiUz11UeKMKeup66hwlztG&s=10",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const joueurs = [
     club: "Al-Hilal SFC",
     numero: 3,
     photo:
-      "https://images.unsplash.com/photo-1759674794418-26371e3851a9?auto=format&fit=crop&w=800&q=80",
+      "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kalidou_Koulibaly_France_v_Senegal_16_June_2026-370_%28cropped%29.jpg",
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const joueurs = [
     club: "Al-Ahli SFC",
     numero: 1,
     photo:
-      "https://images.unsplash.com/photo-1748112446071-603973efd3f9?auto=format&fit=crop&w=800&q=80&flip=h",
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Edouard_Mendy_France_v_Senegal_16_June_2026-375_%28cropped%29.jpg",
   },
   {
     id: 4,
@@ -43,9 +43,10 @@ const joueurs = [
     club: "Crystal Palace FC",
     numero: 7,
     photo:
-      "https://images.unsplash.com/photo-1759674794418-26371e3851a9?auto=format&fit=crop&w=800&q=80&flip=h",
+      "https://wiwsport.com/wp-content/uploads/2024/01/Sarr-iso.jpg",
   },
 ];
+
 
 export default function Players() {
   return (
